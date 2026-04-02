@@ -1,0 +1,9 @@
+Manufacturer=TONTEK
+PartNumber=TTP223E-HA6
+PartCategory=Integrated Circuit
+PackageCategory=SOT23 (6-Pin)
+PinCount=6
+Version=1.1
+Released=2021-05-12 05:30:46
+Downloaded=2026-02-14 11:58:06
+3D=Y

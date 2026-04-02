@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "TTP223E-HA6")(type "KiCad")(uri "${KIPRJMOD}/Componenti/TTP223E-HA6/TTP223E-HA6.kicad_sym")(options "")(descr ""))
+)

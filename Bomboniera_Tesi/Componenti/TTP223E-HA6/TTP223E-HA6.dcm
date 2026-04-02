@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TTP223E-HA6
+D 1 key Touch Pad Detector IC Operating voltage 2.0V ~ 5.5V
+K
+F https://datasheet.lcsc.com/szlcsc/Tontek-Design-Tech-TTP223E-HA6_C129459.pdf
+$ENDCMP
+#
+#End Doc Library

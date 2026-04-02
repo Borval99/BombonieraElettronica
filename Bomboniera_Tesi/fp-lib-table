@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Cappello")(type "KiCad")(uri "${KIPRJMOD}/Cappello.pretty")(options "")(descr ""))
+  (lib (name "LY_L29K_H1K2_26_Z")(type "KiCad")(uri "${KIPRJMOD}/Componenti/LY_L29K_H1K2_26_Z")(options "")(descr ""))
+  (lib (name "R0402")(type "KiCad")(uri "${KIPRJMOD}/Componenti/R0402/R0402.pretty")(options "")(descr ""))
+  (lib (name "TTP223E-HA6")(type "KiCad")(uri "${KIPRJMOD}/Componenti/TTP223E-HA6")(options "")(descr ""))
+)

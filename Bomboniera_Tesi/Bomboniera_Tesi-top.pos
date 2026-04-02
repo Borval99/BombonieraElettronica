@@ -1,0 +1,55 @@
+### Footprint positions - created on 2026-02-17T08:46:56+0100 ###
+### Printed by KiCad version 9.0.5
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                        Package                 PosX       PosY       Rot  Side
+C1        CC0402JRX7R7BB104          C_0402_1005Metric   124.6700  -104.4650    0.0000  top
+C2        CL05C220JB5NNNC            C_0402_1005Metric   113.5500  -100.5750    0.0000  top
+C3        CC0402JRX7R7BB104          C_0402_1005Metric   121.1100  -104.4750  180.0000  top
+D0        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     129.1864   -87.8604   19.5000  top
+D1        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     103.4816   -82.7177   20.1000  top
+D2        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     119.2464   -88.7884  -19.6000  top
+D3        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     138.8065   -84.4765   20.0000  top
+D4        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     120.2306   -76.6379   20.0000  top
+D5        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     128.3130   -77.6021  -19.3000  top
+D6        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     111.9065   -79.6565   20.0000  top
+D7        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     136.7738   -80.6448  -19.6000  top
+D8        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     109.9764   -85.4734  -19.6000  top
+D9        LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     105.7664   -83.9784  -19.6000  top
+D10       LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     124.2011   -76.1318  -19.5000  top
+D11       LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     132.6529   -79.1475  -19.6000  top
+D12       LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     116.1665   -78.1065   20.0000  top
+D13       LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     114.5414   -87.1384  -19.6000  top
+D14       LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     125.1416   -89.2977   20.1000  top
+D15       LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     133.3214   -86.3754   19.5000  top
+D16       LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     141.0895   -82.2044  -19.8000  top
+D17       LY_L29K-H1K2-26-0-2-R18-Z  LED_LY_L29K_MUR     107.7565   -81.1565   20.0000  top
+IC1       TTP223-TD                  SOT95P285X126-6N    114.0300  -103.9550  -90.0000  top
+Q1        DMG1013UW-7                SOT-323_SC-70       117.7300  -103.1900  -90.0000  top
+Q2        L2N7002WT1G                SOT-323_SC-70       117.7675  -106.7750  -90.0000  top
+Q3        BC817-40W,115              SOT-323_SC-70       121.3500  -106.8775    0.0000  top
+Q4        BC817-40W,115              SOT-323_SC-70       125.1275  -106.8775    0.0000  top
+Q5        L2N7002WT1G                SOT-323_SC-70       128.5050  -106.7750  -90.0000  top
+R1        0402WGF2000TCE             R_0402_1005Metric   108.9892   -71.6256  130.0980  top
+R2        0402WGF1003TCE             R_0402_1005Metric   123.7667  -102.6900  -90.0000  top
+R3        0402WGF1004TCE             R_0402_1005Metric   125.4850  -102.6900  -90.0000  top
+R4        0402WGF1004TCE             R_0402_1005Metric   122.0483  -102.6900   90.0000  top
+R5        0402WGF1003TCE             R_0402_1005Metric   120.3300  -102.6900  -90.0000  top
+R6        0402WGF2000TCE             R_0402_1005Metric   140.6903   -75.8337   35.2990  top
+R7        0402WGF2000TCE             R_0402_1005Metric   143.4140   -81.1475   19.4990  top
+R8        0402WGF2000TCE             R_0402_1005Metric   144.6270   -88.2525    0.3990  top
+R9        0402WGF2000TCE             R_0402_1005Metric   143.3350   -95.6850  -19.6000  top
+R10       0402WGF2000TCE             R_0402_1005Metric   101.5322   -92.1847  -169.4500  top
+R11       0402WGF2000TCE             R_0402_1005Metric   114.0565   -68.4668  114.2990  top
+R12       0402WGF2000TCE             R_0402_1005Metric   136.6227   -71.4623   51.0990  top
+R13       0402WGF2000TCE             R_0402_1005Metric   126.8250   -66.9450   82.6990  top
+R14       0402WGF2000TCE             R_0402_1005Metric   101.4942   -84.6408  170.5490  top
+R15       0402WGF2000TCE             R_0402_1005Metric   104.9735   -76.0448  145.9000  top
+R16       0402WGF2000TCE             R_0402_1005Metric   102.5306   -95.8371  -159.4500  top
+R17       0402WGF2000TCE             R_0402_1005Metric   102.4300   -81.0900  161.6990  top
+R18       0402WGF2000TCE             R_0402_1005Metric   144.2879   -84.4813   10.3990  top
+R19       0402WGF2000TCE             R_0402_1005Metric   118.9246   -66.9656   98.4990  top
+R20       0402WGF2000TCE             R_0402_1005Metric   131.5185   -68.3636   66.8990  top
+R21       0402WGF2000TCE             R_0402_1005Metric   101.1832   -88.4144  -179.4500  top
+R22       0402WGF2000TCE             R_0402_1005Metric   144.3061   -92.0252   -9.6000  top
+## End
