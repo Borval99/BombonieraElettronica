@@ -1,4 +1,4 @@
-# BombonieraElettronica
+# Bomboniera Elettronica
 
 ## Descrizione
 
@@ -23,9 +23,9 @@ L’alimentazione è fornita da una **batteria CR2032**, rendendo il dispositivo
 ## Immagini
 
 <div>
-  <img src="Immagini/Front.jpg" height="250">
-  <img src="Immagini/Back.jpg" height="250">
-  <img src="Immagini/Light.jpg" height="250">
+  <img src="Immagini/Front.jpeg" height="250">
+  <img src="Immagini/Back.jpeg" height="250">
+  <img src="Immagini/Light.jpeg" height="250">
 </div>
 
 ---
@@ -49,7 +49,3 @@ Contiene le simulazioni dei circuiti sviluppati:
 * analisi del comportamento del circuito
 
 ---
-
-## Note
-
-Il progetto ha finalità celebrative e dimostrative, unendo elementi simbolici della laurea con una semplice implementazione elettronica.
